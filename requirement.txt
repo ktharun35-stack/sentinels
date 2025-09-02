@@ -1,0 +1,18 @@
+
+
+```
+PyMuPDF==1.22.5
+openai==0.27.0
+```
+
+
+* **PyMuPDF**: For extracting text from PDF files.
+* **openai**: To access OpenAI's API for GPT-powered question answering.
+
+---
+
+
+```bash
+pip install -r requirements.txt
+```
+
